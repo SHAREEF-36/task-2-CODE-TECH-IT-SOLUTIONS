@@ -8,9 +8,9 @@
 
 ## Overview of the Project
 
-### Project Name: Finite State Machine Design
+**Project Name: Finite State Machine Design**
 
-### Objectives
+## Objectives
 - Design and implement a finite state machine using Verilog HDL.
 - Simulate and verify the FSM using Xilinx 14.7.
 - Understand the basic concepts of FSM design and implementation.
