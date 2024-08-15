@@ -1,4 +1,4 @@
-# Digital Logic Design Lab
+# Finite State Machine Design
 
 **Name:** Shaik Khasim Shareef  
 **Company:** CODETECH IT SOLUTIONS  
@@ -8,22 +8,23 @@
 
 ## Overview of the Project
 
-*Project Name:* Digital Logic Design Lab
+### Project Name
+Finite State Machine Design
 
-*Objective:*
-The objective of this project is to design and implement digital logic circuits using Verilog on the Xilinx 14.7 platform. The project focuses on creating and testing the following components:
-- 4:1 Multiplexer using 2:1 Multiplexers
-- Logic Gates
-- Adders
+### Objectives
+- Design and implement a finite state machine using Verilog HDL.
+- Simulate and verify the FSM using Xilinx 14.7.
+- Understand the basic concepts of FSM design and implementation.
 
-*Key Activities:*
-- Designed and implemented a 4:1 Multiplexer using 2:1 Multiplexers and logic gates.
-- Designed and implemented various logic gates.
-- Implemented a Half Adder using logic gates.
-- Implemented a Full Adder using Half Adders and logic gates.
-- Tested and verified the functionality of each circuit using Xilinx 14.7 simulation tools.
+## Key Activities
+- Designed and coded the FSM using Verilog HDL.
+- Created testbenches for simulation and verification.
+- Simulated the FSM using Xilinx 14.7.
+- Analyzed and debugged the simulation results.
 
-*Technology Used:*
-- Xilinx 14.7 software platform
-- Verilog hardware description language
-- FPGA (Field-Programmable Gate Array) technology
+## Tools Used
+- Xilinx 14.7 (ISE Design Suite)
+- Verilog HDL
+
+
+
