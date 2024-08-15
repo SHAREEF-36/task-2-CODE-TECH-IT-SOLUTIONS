@@ -8,7 +8,7 @@
 
 ## Overview of the Project
 
-### Project Name:### Finite State Machine Design
+### Project Name: Finite State Machine Design
 
 ### Objectives
 - Design and implement a finite state machine using Verilog HDL.
