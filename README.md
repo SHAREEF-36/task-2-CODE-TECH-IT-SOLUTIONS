@@ -1,6 +1,6 @@
 # Finite State Machine Design
 
-**Name:** Shaik Nagur Shareef  
+**Name:** Shaik Nagur Sharif  
 **Company:** CODETECH IT SOLUTIONS  
 **ID:** CT6WDS1963
 **Domain:** VLSI  
